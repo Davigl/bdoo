@@ -9,7 +9,7 @@ public class SingletonConnection {
 	
 	public static final String ESQUEMA = "bdoo_2016110337";
 
-	private static final String URL = "jdbc:postgresql://10.100.0.7:5432/fap_2018_2";
+	private static final String URL = "jdbc:postgresql://labsql.fapce.edu.br:3024/fap_2018_2";
 	private static final String USUARIO = "bdoo_2016110337";
 	private static final String SENHA = "rapariga123";
 
